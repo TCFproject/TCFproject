@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @TCFproject
 - 👀 I’m interested in IT development
-- 🌱 I’m currently learning J2EE and 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning J2EE and React Native
+- 💞️ I’m looking for a sandwich course in web, mobile, front, back develpment
+- 🕸 I'm currently in 3rd year at EPSI school in Bordeaux
+- 😊 Here is the projects that I did in class and personaly
+- 📫 How to reach me via :
+    mail : thierry.changf@gmail.com
+    tel : 06.47.20.59.18
 
 <!---
 TCFproject/TCFproject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
