@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TCFproject
 - 👀 I’m interested in IT development
 - 🌱 I’m currently learning J2EE and React Native
-- 💞️ I’m looking for a sandwich course in web, mobile, front, back develpment
+- 💞️ I’m looking for a apprenticeship or an internship in web/mobile development
 - 🕸 I'm currently in 3rd year at EPSI school in Bordeaux
 - 😊 Here is the projects that I did in class and personaly
 - 📫 How to reach me via :
