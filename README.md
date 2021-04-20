@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning J2EE and React Native
 - 💞️ I’m looking for a apprenticeship or an internship in web/mobile development
 - 🕸 I'm currently in 3rd year at EPSI school in Bordeaux
-- 😊 Here is the projects that I did in class and personaly
+- 😊 Here are the projects that I did in class and personaly
 - 📫 How to reach me via :
     mail : thierry.changf@gmail.com
     tel : 06.47.20.59.18
